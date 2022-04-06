@@ -11,7 +11,7 @@
 * Homogeneous collection of values
 * Fast and efficient
 * Support for mathematical functions
-* Primary container for data exchange between python algorithms
+
 
 ## What is Pandas?
 Pandas is an open source Python package that is most widely used for data science/data analysis and machine learning tasks. It is built on top of another package named Numpy and matplot, which provides support for multi-dimensional arrays, data manipulation and visualization more convinient.
